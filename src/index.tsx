@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import ReactDOM from 'react-dom';
 
 const App = () => {
@@ -6,6 +7,7 @@ const App = () => {
     <div>
       <button>Submit</button>
     </div>
+    <pre></pre>
   </div>
 };
 
