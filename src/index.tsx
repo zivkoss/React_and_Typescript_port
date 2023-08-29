@@ -4,7 +4,7 @@ const App = () => {
   return <div>
     <textarea></textarea>
     <div>
-      <button></button>
+      <button>Submit</button>
     </div>
   </div>
 };
